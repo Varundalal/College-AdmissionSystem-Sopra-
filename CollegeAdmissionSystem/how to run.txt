@@ -1,0 +1,6 @@
+open the project in Netbeans and Run the project.
+Open the assignment_db file and create a database in mysql namely assignment
+than execute the sql statement in it.
+Software required to run mysql will be Wampserver.
+google it.
+how to create database in wampserver.

@@ -1,0 +1,30 @@
+three modules
+1.student:-
+capable of downloading assignment
+have complete profile
+uploads assignment solution
+last date constraint
+
+
+2.professor
+uploads assignment question
+check and either mark checked or unchecked
+may give remark
+assign last date for submission
+
+
+3.Admin
+register student
+register professor
+add:-	 course
+	subject
+	semester and all
+			
+
+
+
+----------------------------------------------------------
+assignment shouldnot be accepted after last date
+studend got promoted to next sem automatically
+must check for duplicate profile for each student and proffesor
+visitor who may see only no of assignment submitted by student by entering candidate detail
